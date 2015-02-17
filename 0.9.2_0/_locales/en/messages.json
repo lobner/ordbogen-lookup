@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Select a word and look it up on Ordbogen.com.",
+      "message": "Select a word and look it up on Ordbogen.com."
+   },
+   "appName": {
+      "description": "Ordbogen.com lookup",
+      "message": "Ordbogen.com lookup"
+   }
+}

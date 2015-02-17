@@ -1,0 +1,20 @@
+{
+   "background": {
+      "scripts": [ "ordbogen.js" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "ordbogen_128x128.png",
+      "16": "ordbogen_16x16.png",
+      "32": "ordbogen_32x32.png",
+      "40": "ordbogen_40x40.png",
+      "64": "ordbogen_64x64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn1oeSMHwlxkm6vRzlmFC6IyXkEIJn/baD7X/ExEtMSuyQ5AxbXQ7KEi6w6D47o1nEiaeVUjXCiyPrytUZ3GhVVGEex29rAnwbT8lcV7cZHykquHbHmI/l0M2c7qcqbktmYMP2JL8hkxeWHBZlC6micoLBrMAjn9V031Zq/udD+hSljXppn2uz2GjDjqd3caqbpyRh2RjyZKHgZQMPBapYMI4MxxxztMs5Kh1VF7rfDddUBXJsKXE0XOvFS0jzF0ZkA2iY9S9a446JH1V02KBO9yEeWqLdviL5L9q+D+3X/s9A0Nr0N532YlxqLyntG9/k5NOvA/DyvS06vWh0/S6dwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "contextMenus", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.9.2"
+}

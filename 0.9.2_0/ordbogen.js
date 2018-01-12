@@ -1,5 +1,5 @@
-﻿// Copyright (c) 2013 lobner of lobner.dk
-// Use of this source code is governed by a BSD-style license
+// Copyright (c) 2013 lobner of lobner.dk
+// Use of this source code is governed by a GPL license
 
 
 chrome.contextMenus.create({
